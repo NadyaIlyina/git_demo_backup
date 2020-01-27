@@ -4,5 +4,5 @@ target/
 bin/
 *.iml
 *./class
-*.idea/
+*./.idea
 
