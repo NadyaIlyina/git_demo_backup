@@ -3,6 +3,7 @@
 target/
 bin/
 *.iml
-*./class
-*./.idea
+*./class/
+*./.idea/
+*./out/
 
